@@ -2,8 +2,8 @@
 
 ## 🔬 About me
 
-I am a student at The Ohio State University.
-I manage [Bandbbs](https://www.bandbbs.cn/) with my friend.
+- I am a student at The Ohio State University.
+- I manage [Bandbbs](https://www.bandbbs.cn/) with my friend.
 
 
 ## ⌨️ Language
