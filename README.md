@@ -4,7 +4,7 @@
 
 ## 🔍 About me
 
-- 🎓 B.S. in Computer Science and Engineering at The Ohio State University
+- 🎓 M.S. CS Student @ [USC](https://www.usc.edu/) | B.S. CSE @ [OSU](https://www.osu.edu/)
 - 🧭 Developer, Operator and Manager of [BandBBS](https://www.bandbbs.cn/) — a 4M+ user forum
 - 💡 Currently building [Server Torii](https://github.com/Rayzggz/server_torii), a distributed DDoS mitigation platform in Go
 
